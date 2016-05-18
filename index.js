@@ -103,3 +103,7 @@ function waitz(tasks, callback) {
   })
 
 }
+
+module.exports = {
+  init: init
+};
